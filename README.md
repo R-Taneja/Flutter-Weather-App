@@ -15,4 +15,5 @@ A simple and elegant cross-platform weather app made with Flutter.
 11. Follow [these instructions](https://flutter.dev/docs/get-started/test-drive) (under the "Run the app" header) to run the app on a virtual device.
 
 ## Screenshot
+Note: location redacted for privacy reasons
 ![Clima Screenshot](https://user-images.githubusercontent.com/47066511/79395239-32ce2e00-7f47-11ea-963d-53b7ff934263.png)
