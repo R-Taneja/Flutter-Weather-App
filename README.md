@@ -16,4 +16,5 @@ A simple and elegant cross-platform weather app made with Flutter.
 
 ## Screenshot
 Note: location redacted for privacy reasons
-![Clima Screenshot](https://user-images.githubusercontent.com/47066511/79395239-32ce2e00-7f47-11ea-963d-53b7ff934263.png)
+
+<img src="https://user-images.githubusercontent.com/47066511/79395239-32ce2e00-7f47-11ea-963d-53b7ff934263.png" width="300" alt="Clima Screenshot">
